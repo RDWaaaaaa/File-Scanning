@@ -1,0 +1,16 @@
+[
+{
+  "directory": "d:\\abc\\test1",
+  "arguments": ["g++.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-std=c++20", "-DNDEBUG", "-o", "build\\.objs\\test1\\windows\\x64\\release\\src\\basis.cpp.obj", "src\\basis.cpp"],
+  "file": "src\\basis.cpp"
+},
+{
+  "directory": "d:\\abc\\test1",
+  "arguments": ["g++.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-std=c++20", "-DNDEBUG", "-o", "build\\.objs\\test1\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "d:\\abc\\test1",
+  "arguments": ["g++.exe", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-Iinclude", "-finput-charset=UTF-8", "-fexec-charset=UTF-8", "-std=c++20", "-DNDEBUG", "-o", "build\\.objs\\test1\\windows\\x64\\release\\src\\tree.cpp.obj", "src\\tree.cpp"],
+  "file": "src\\tree.cpp"
+}]
